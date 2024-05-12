@@ -1,1 +1,1 @@
-# Template-File
+# Template for SSMT Solutions
