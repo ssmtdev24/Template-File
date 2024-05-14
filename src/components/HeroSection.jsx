@@ -11,14 +11,14 @@ const HeroSection = () => {
     <Wrapper>
       <div className="container grid grid-two-column">
         <div className="section-hero-data">
-          <p className="hero-top-data">THIS IS ME</p>
-          <h1 className="hero-heading">{name}</h1>
+          <p className="hero-top-data">WE ARE</p>
+          <h1 className="hero-heading">S SMT Solutions</h1>
           <p className="hero-para">
-            I'm {name}. A Full stack Developer, youtuber and freelancer. A Full
-            stack Developer, youtuber and freelancer.
+            offering comprehensive IT services with expertise, reliability, and
+            innovation to cater to diverse needs.
           </p>
           <Button className="btn hireme-btn">
-            <NavLink to="/contact"> hire me </NavLink>
+            <NavLink to="/contact"> Connect Now </NavLink>
           </Button>
         </div>
 
